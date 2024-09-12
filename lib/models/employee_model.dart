@@ -1,3 +1,4 @@
+//Model class for Employee
 class Employee {
   String? createdAt;
   String? name;
